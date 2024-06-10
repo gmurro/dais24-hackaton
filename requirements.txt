@@ -1,2 +1,2 @@
-transformers==4.38.2
-python-dotenv>=0.5.1
+databricks-vectorsearch
+databricks-genai-inference
