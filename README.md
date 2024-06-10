@@ -17,6 +17,9 @@ DressMe will propose three components of your outfit (top, bottom and shoes).
 
 DressMe will recommend your entire outfit for your event!
 
+# Project Code 
+
+To access to project code, use the following [notebook](https://github.com/gmurro/dais24-hackaton/blob/main/notebooks/dressme-luxury-fashion-rag.ipynb).
 
 # Key Features and Components
 
@@ -33,7 +36,7 @@ Use the model's capabilities to understand context and extract relevant fashion 
 # Technical Stack
 - Databricks ChatSession
 - Databricks VectorSearch
-- Language Model: Meta LLama
+- Language Model: Meta LLama 3
 - Programming Language: Python
 
 ## Contributors ✨
