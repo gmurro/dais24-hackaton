@@ -22,7 +22,7 @@ DressMe will recommend your entire outfit for your event, comprehensive of top, 
 ### Project Code 
 
 To access to project code, use the following [notebook](./notebooks/dressme-luxury-fashion-rag.ipynb).
-Also few slides are available in the following [presentation](./presentation/presenation.pdf).
+Also few slides are available in the following [presentation](./presentation/presentation.pdf).
 
 ### Example of interaction
 

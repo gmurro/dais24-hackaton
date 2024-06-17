@@ -1,2 +1,2 @@
-databricks-vectorsearch
-databricks-genai-inference
+databricks-vectorsearch==0.38
+databricks-genai-inference==0.2.3
